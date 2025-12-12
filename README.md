@@ -99,10 +99,10 @@ This modular composition ensures clean separation of concerns and future scalabi
 ## 8. How to Run
 
 ### Step 1 — Compile
-gcc SRMS_CSE124_Project_Binary_Brains_68_A1_DIU.c
+gcc SRMS_CSE124_Project_Binary_Brains_68_A1_DIU.c -o SRMS
 
 ### Step 2 — Run
-./SRMS_CSE124_Project_Binary_Brains_68_A1_DIU.c
+./SRMS
 
 ### Manager Mode Passwords
 - 222
