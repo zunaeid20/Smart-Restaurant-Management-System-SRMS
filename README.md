@@ -143,6 +143,8 @@ gcc SRMS_CSE124_Project_Binary_Brains_68_A1_DIU.c
 
 Developed collaboratively by Binary Brains, ensuring aligned teamwork, structured development, and comprehensive testing across all modules.
 
+---
+
 ## 12. License
 
 MIT License
@@ -167,7 +169,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
+
 ## 13. Acknowledgements
 
 Special thanks to Mr. Md. Jakaria Zobair, Course Instructor,
 for his continuous guidance, structured feedback, and academic support throughout the project lifecycle.
+
+---
