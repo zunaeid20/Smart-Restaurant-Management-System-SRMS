@@ -104,6 +104,8 @@ gcc SRMS_CSE124_Project_Binary_Brains_68_A1_DIU.c -o SRMS
 ### Step 2 — Run
 ./SRMS
 
+(Windows: SRMS.exe)
+
 ### Manager Mode Passwords
 - 222
 - 223
