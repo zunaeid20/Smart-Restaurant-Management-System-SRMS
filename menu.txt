@@ -1,0 +1,5 @@
+A001;Biriyani;280.00;500
+A002;Borhani;80.00;700
+A003;Tehari;220.00;400
+A004;Swarma;110.00;350
+A005;Cold Drinks;40.00;450
